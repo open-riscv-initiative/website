@@ -1,0 +1,33 @@
+<table class="td-initial table table-striped table-hover full-size-table primary-table text-center">
+<thead>
+<tr>
+<th>Name</th>
+<th>Model</th>
+<th>SoC</th>
+<th>CPU</th>
+<th>RAM</th>
+<th>Storage</th>
+<th>Uptime</th>
+</tr>
+</thead>
+<tbody>
+{{range .Site.Data.servers}}
+<tr>
+<td>{{.Name}}</td>
+<td>{{.Model}}</td>
+<td>{{.SoC}}</td>
+<td>{{.CPU}}</td>
+<td>{{.RAM}}</td>
+<td>{{.Storage}}</td>
+{{ if eq .Status "Online" }}
+<td style="color: #198754;">{{.Status}}</td>
+{{ else }}
+<td style="color: #dc3545;">{{.Status}}</td>
+{{ end }}
+     
+</tr>
+{{end}}
+</tbody>
+</table>
+
+{{.Inner}}

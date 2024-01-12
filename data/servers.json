@@ -1,0 +1,29 @@
+[
+  {
+    "Name": "sv1",
+    "Model": "VisionFive 2",
+    "SoC": "StarFive JH7110",
+    "CPU": 4,
+    "RAM": "8 Go",
+    "Storage": "250 Go",
+    "Status": "Online"
+  },
+  {
+    "Name": "sv2",
+    "Model": "VisionFive 2",
+    "SoC": "StarFive JH7110",
+    "CPU": 4,
+    "RAM": "8 Go",
+    "Storage": "250 Go",
+    "Status": "Online"
+  },
+  {
+    "Name": "sv3",
+    "Model": "VisionFive 2",
+    "SoC": "StarFive JH7110",
+    "CPU": 4,
+    "RAM": "8 Go",
+    "Storage": "250 Go",
+    "Status": "Online"
+  }
+]
