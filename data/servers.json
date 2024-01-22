@@ -25,5 +25,32 @@
     "RAM": "8 Go",
     "Storage": "250 Go",
     "Status": "Online"
+  },
+  {
+    "Name": "sv4",
+    "Model": "VisionFive 2",
+    "SoC": "StarFive JH7110",
+    "CPU": 4,
+    "RAM": "8 Go",
+    "Storage": "250 Go",
+    "Status": "Online"
+  },
+  {
+    "Name": "sv5",
+    "Model": "VisionFive 2",
+    "SoC": "StarFive JH7110",
+    "CPU": 4,
+    "RAM": "8 Go",
+    "Storage": "250 Go",
+    "Status": "Online"
+  },
+  {
+    "Name": "sv6",
+    "Model": "VisionFive 2",
+    "SoC": "StarFive JH7110",
+    "CPU": 4,
+    "RAM": "8 Go",
+    "Storage": "250 Go",
+    "Status": "Online"
   }
 ]
