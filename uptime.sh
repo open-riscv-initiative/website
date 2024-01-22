@@ -1,7 +1,12 @@
 #!/bin/bash
 
 # Define your server list with IP addresses
-servers=("sv1" "sv2" "sv3")
+servers=("sv1"
+"sv2" 
+"sv3"
+"sv4"
+"sv5"
+"sv6")
 
 # Function to get server uptime using ping
 get_uptime() {
