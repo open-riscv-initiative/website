@@ -78,4 +78,4 @@ The Pioneer Mark
 ## Support
 
 For support please see the documentation section of the Milk-V website and post questions to the Milk-V Community.
-You can find the wiki [here](https://doc-en.rvspace.org/Doc_Center/hardware_vf2.html).
+You can find the wiki [here](https://milkv.io/docs/pioneer/overview).
