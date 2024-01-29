@@ -56,4 +56,4 @@ Diagram of the bottom view of the board
 ## Support
 
 For support please see the documentation section of the StarFive website and post questions to the StarFive Community.
-You can find the wiki [here](https://milkv.io/docs/pioneer/overview).
+You can find the wiki [here](https://doc-en.rvspace.org/Doc_Center/hardware_vf2.html).
