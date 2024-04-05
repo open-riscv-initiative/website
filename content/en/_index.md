@@ -25,15 +25,17 @@ RISC-V, an open-source instruction set architecture, offers unparalleled flexibi
 [Join the server](https://matrix.to/#/#open-riscv-initiative:matrix.org)
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fab fa-github" title="Contributions welcome!"
-    url="https://github.com/open-riscv-initiative/website" %}}
+{{% blocks/feature icon="fab fa-github" title="Contributions welcome!" %}}
 We do a [Pull Request](https://github.com/open-riscv-initiative/website/pulls)
 contributions workflow on **GitHub**. New users are always welcome!
+
+[GitHub Repository Link](https://github.com/open-riscv-initiative/website)
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fab fa-twitter" title="Open"
-    url="https://twitter.com/GoHugoIO" %}}
-For announcement of latest features etc.
+{{% blocks/feature icon="fab fa-mastodon" title="We're also on Mastodon!" %}}
+We use it for announcements and news of the initiative.
+
+[@OpenRiscvInitiative@mastodon.social](https://mastodon.social/@OpenRiscvInitiative)
 {{% /blocks/feature %}}
 
 
