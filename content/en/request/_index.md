@@ -42,6 +42,14 @@ We do not ask you any personal information, however we need your email address i
     <div class="card-body">
         <h3>Machine specifications</h3>
         <div class="mb-3">
+            <label for="soc" class="form-label">SoC</label>
+            <select id="soc" name="soc" class="form-select" aria-label="SoC">
+                <option selected="selected">JH7110</option>
+                <option>C910</option>
+                <option>C920</option>
+            </select>
+        </div>
+        <div class="mb-3">
             <label for="ram" class="form-label">RAM</label>
             <select id="ram" name="ram" class="form-select" aria-label="RAM">
                 <option selected="selected">512 MB</option>
