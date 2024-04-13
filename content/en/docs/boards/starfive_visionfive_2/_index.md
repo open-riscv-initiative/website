@@ -8,7 +8,7 @@ weight: 5
 ## Introduction
 
 The StarFive VisionFive 2 is a SBC with a StarFive JH7110 64bit SoC. Its proposed with either 2GB, 4GB or 8GB of LPDDR4 RAM.
-It also have an integrated GPU capable of outputing in 4k@60hz via its HDMI 2.0 port.
+It also have an integrated GPU capable of outputting in 4k@60hz via its HDMI 2.0 port.
 
 ## VisionFive 2 Board
 
