@@ -7,7 +7,7 @@ menu: {main: {weight: 50}}
 <h4>
 Here you can request a RISC-V machine if you work on an open-source software.
 
-In order to access the machine, we will need your SSH Public Key and your GitHub informations.
+In order to access the machine, we will need your SSH Public Key and your GitHub information.
 
 The requests are reviewed and processed manually.
 </h4>
