@@ -19,7 +19,7 @@ We do not ask you any personal information, however we need your email address i
 
 
 <br />
-<form action="https://fabform.io/f/hGyyUYB" method="POST">
+<form action="https://fabform.io/f/LxPjlmb" method="POST">
   <div class="mb-3">
     <label for="username" class="form-label">Username*</label>
     <input type="username" class="form-control" id="username" name="username" required="required">
